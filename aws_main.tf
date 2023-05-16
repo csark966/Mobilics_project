@@ -1,8 +1,8 @@
 # Define provider and region
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIAYKTHIEXOXW5THUOZ"
-  secret_key = "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"
+  access_key = "***************************************"
+  secret_key = "******************************************"
 }
 
 
